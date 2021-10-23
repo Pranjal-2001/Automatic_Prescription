@@ -1,0 +1,23 @@
+#title_main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("https://thumbs.dreamstime.com/b/pastel-blue-paper-texture-background-kraft-horizontal-unique-design-soft-natural-style-aesthetic-creative-199982962.jpg");
+    text-align: center;
+    margin: 0%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 40px;
+}
+body{
+    background-color: azure;
+}
+section{
+    background-color: lightsteelblue;
+    margin-right: 1350px;
+    padding-top: 10px;
+    padding-bottom: 900px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+article{
+    background-size: 0px;
+    margin-left: 160px;
+}
